@@ -110,7 +110,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Hdfcbank Snapshot Nexus Repository </name>
+	      <name>Hdfcbank Snapshot Nexus Repository</name>
 	      <url>http://34.229.133.14:8081/repository/Hdfcbank-snapshot/</url>
 	    </snapshotRepository>
 	    
