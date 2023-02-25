@@ -104,13 +104,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>Hdfcbank Releases Nexus Repository</name>
 	      <url>http://34.229.133.14:8081/repository/Hdfcbank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>Hdfcbank Snapshot Nexus Repository </name>
 	      <url>http://34.229.133.14:8081/repository/Hdfcbank-snapshot/</url>
 	    </snapshotRepository>
 	    
