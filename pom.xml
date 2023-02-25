@@ -29,13 +29,6 @@
 
 	</properties>
 	
-	<repositories>
-		<repository>
-			<id>nexus</id>
-			<url>http://34.229.133.14:8081/repository/grouprepo-mss/</url>
-		</repository>
-	</repositories>
-
 	<dependencies>
 		
 		<dependency>
